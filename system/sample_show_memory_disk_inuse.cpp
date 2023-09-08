@@ -24,11 +24,13 @@ int main() {
 
 	// Display the information in a table
 	std::cout << "--------------------------------------" << std::endl;
-	std::cout << "| Memory Used | Disk Used |" << std::endl;
 	std::cout << "--------------------------------------" << std::endl;
-	std::cout << "| " << std::fixed << std::setprecision(2) << memoryUsed << " MB   | " << diskUsed << " MB  |" << std::endl;
+	std::cout << "| Memory and Disk in Use" << std::endl;
 	std::cout << "--------------------------------------" << std::endl;
-
+	std::cout << "| MEMORY USED: " << memoryUsed << " MB" << std::endl;
+	std::cout << "| DISK USED: " << diskUsed << " MB" << std::endl;
+	std::cout << "--------------------------------------" << std::endl;
+	std::cout << "--------------------------------------" << std::endl;
 	return 0;
 }
 
