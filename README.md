@@ -1,5 +1,5 @@
 # C++ Repository
-Welcome to my c++ repository. This is a collection of files written in C++ that explore various concepts and ideas that can be used for reference or fun. 
+Welcome to my c++ repository. This is a collection of miscellaneous files written in C++ that explore various concepts and ideas that can be used for reference or fun. 
 
 ## Purpose
 This repository is intented to be used as a cache for various C++ files which contain a variety of ideas and solutions. Many of these are one-off ideas or answers to small coding challenges I have done in the past. 
